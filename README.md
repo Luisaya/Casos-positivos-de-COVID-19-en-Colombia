@@ -3,8 +3,8 @@
 Proyecto de la **Tarea 3 – Procesamiento de Datos con Apache Spark**
 Curso: Big Data (código 202016911) – Universidad Nacional Abierta y a Distancia (UNAD)
 
-**Autor:** [TU NOMBRE COMPLETO]
-**Grupo:** [NÚMERO DE GRUPO]
+**Autor:** [Luis Alberto Aya Hernandez]
+**Grupo:** [202016911_25]
 
 ---
 

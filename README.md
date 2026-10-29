@@ -128,10 +128,10 @@ La salida completa de las tablas del análisis está en [evidencias/salida_batch
 
 > Completa esta sección con tus propios resultados, tomados de `salida_batch.txt` y de las gráficas.
 
-- Departamento con más casos: [COMPLETAR]
-- Grupo de edad con más casos: [COMPLETAR]
-- Periodo con mayor número de casos: [COMPLETAR]
-- Departamentos con mayor letalidad: [COMPLETAR]
+- Departamento con más casos: [Bogota]
+- Grupo de edad con más casos: [30-39]
+- Periodo con mayor número de casos: [Magdalena]
+- Departamentos con mayor letalidad: [2021-04]
 
 ## 8. Procesamiento en tiempo real (Kafka y Spark Streaming)
 
@@ -152,7 +152,7 @@ Las capturas de esta ejecución están en la carpeta `evidencias/`.
 
 ## 9. Video explicativo
 
-[ENLACE AL VIDEO]
+[https://youtu.be/kWbUgVD0izU?si=dYFdEPS-4T6HpOnY]
 
 ## 10. Referencias
 

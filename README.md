@@ -43,7 +43,6 @@ El archivo de datos **no se incluye en el repositorio** por su tamaño (más de 
 ├── README.md                 # Este archivo
 ├── evidencias/               # Gráficas, salida del análisis y capturas
 ├── diagramas/                # Diagramas (arquitectura de Kafka)
-└── documentos/               # Documentos de apoyo
 ```
 
 ## 5. Qué hace el código (procesamiento en batch)
